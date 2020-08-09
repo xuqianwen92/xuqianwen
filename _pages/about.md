@@ -1,5 +1,14 @@
 
 ---
+permalink: /
+title: "Short bio"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I received the B.Sc. degree from Tianjin University, China in 2014 majoring in Electrical Engineering. Then I obtained the PhD degree from School of Electrical and Electronics Engineering, Nanyang Technological University, Singapore in 2018, supervied by Prof. [Wang Peng](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=epwang&CategoryDescription=Energy)  and Prof. [Wen Changyun](https://www.ntu.edu.sg/home/ecywen/). After that, I have worked as a research associate in Hong Kong Polytechnic University, Hong Kong with Prof. [Xu Zhao](http://www.ee.polyu.edu.hk/en/people_detail.php?name=XUZhao&cid=1&id=73) and a postdoc research fellow in Aalborg University, Denmark with Prof. [Frede Blaabjerg](https://scholar.google.com/citations?user=z6F1QaoAAAAJ&hl=en) respectively. I also visited Imperial College London with Prof. [Tim Green](https://www.imperial.ac.uk/people/t.green) during March 2020-June 2020. Currently, I am a Wallenberg-NTU Presidential Postdoc Fellow in Nanyang Technological University, Singapore with Prof. [Xie Lihua](https://www.ntu.edu.sg/home/elhxie/).
 
 My research interests include control, stability, reliability and optimization of microgrids and smart grids. In this area, I published 14 top-tier journal papers on IEEE transactions as the first author.
